@@ -1,2 +1,1 @@
-# Dim
-tugas informatika
+
